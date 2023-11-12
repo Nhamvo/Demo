@@ -17,5 +17,5 @@ public interface ChucVuService {
     List<ChucVu>listSearch(String ma,String ten);
     Page<ChucVu> getAll(Pageable pageable);
     void delete(ChucVu nsx);
-
+hello nef kkkkkkkkkkkkk
 }
