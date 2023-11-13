@@ -19,7 +19,6 @@ public interface CuaHangService {
     Page<CuaHang> getAll(Pageable pageable);
     void delete(CuaHang nsx);
 //    Page<CuaHang> searchP( List<CuaHang> l,Pageable pageable);
-    //cua hang service
 
 }
 
